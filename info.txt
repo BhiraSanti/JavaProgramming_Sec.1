@@ -1,0 +1,5 @@
+Student_ID : 2313110211
+Student Name : Bhira Santisewee
+Major : IT
+Level : 1
+Faculty : Information Tecnology
